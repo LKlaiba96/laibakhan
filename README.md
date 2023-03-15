@@ -32,9 +32,6 @@
 
   <div class="cursor"></div>
 
-
-
-
     <!--Navbar-->
       <header class="header_wrapper">
             <nav class="navbar navbar-expand-lg navbar-light fixed-top">
