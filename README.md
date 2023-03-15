@@ -111,8 +111,6 @@
                       </div>
                     </div>
                   </div>
-                  
-                  
 
                   <div class="carousel-item river">
                     <div class="container h-100 d-md-block">
